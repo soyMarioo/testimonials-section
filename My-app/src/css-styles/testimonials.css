@@ -1,0 +1,34 @@
+.div-testimonials {
+  background-color: #0a0a23;
+  height: 370px;
+  width: 1170px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px 10px;
+}
+
+.div-testimonials__img {
+  height:100%;
+  width: auto;
+}
+
+.div-testimonials__div-testimonial-text {
+  text-align:center;
+  padding: 50px;
+  font-family: lato,sans-serif;
+}
+
+.div-testimonials__div-testimonial-text--name {
+  font-size: 1,3rem;
+}
+
+.div-testimonials__div-testimonial-text--occupation {
+  font-size: 1,3rem;
+  margin: 15px 0 0 0;
+  padding: 0 0 30px 0;
+}
+
+.div-testimonials__div-testimonial-text--testimony {
+  text-align:justify;
+}
